@@ -37,7 +37,7 @@ public class GestionAlumnosBinario {
                     sc.nextLine();
                     opCorrecta = true;
                 } catch (InputMismatchException e) {
-                    System.out.println("⛔ Error. Elija una opción válida.");
+                    System.out.println("⛔ " + fondoRojo + "Error. Elija una opción válida." + reset);
                     sc.nextLine();
                 }
             }while (!opCorrecta);
