@@ -1,0 +1,29 @@
+Juan;7.5
+Juan;1.5
+Juan;5
+Juan;7
+Ana;8.2
+Ana;1.2
+Ana;5.2
+Ana;2
+Ana;8
+Luis;4.9
+Luis;3.8
+Luis;1.9
+Luis;4
+María;9.1
+María;8.3
+María;5.1
+María;1
+María;9
+Juanjo;6
+Ana Maria;8
+Luisa;9
+María Jesús;1
+Alba;1.1
+Alba;5.2
+Alba;8.2
+Alba;2.8
+Alba;2.3
+Leire;4
+Mario;9
