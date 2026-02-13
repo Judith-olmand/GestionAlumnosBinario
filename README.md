@@ -103,6 +103,6 @@ Selecciona una opción:
 
 Proyecto educativo para aprendizaje de Java y manejo de archivos.
 
-## 👤 Autor
+## 👤 Autor --> Judith Olmedo Andrés
 
 Proyecto desarrollado como ejercicio de programación en Java.
